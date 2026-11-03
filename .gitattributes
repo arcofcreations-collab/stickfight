@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.png binary
+*.gif binary
+*.mp4 binary
+*.wav binary
